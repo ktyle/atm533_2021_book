@@ -1,4 +1,4 @@
-name: pythia-book-dev
+name: atm433
 channels:
   - conda-forge
 dependencies:

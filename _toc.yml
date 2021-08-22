@@ -1,10 +1,16 @@
 format: jb-book
 root: landing-page
 parts:
-  - caption: Preamble
+  - caption: Course overview
     chapters:
-      - file: preamble/how-to-use
-  - caption: Foundational skills
+      - file: preamble/description
+      - file: preamble/objectives
+      - file: preamble/syllabus
+      - file: preamble/schedule
+      - file: preamble/activities
+      - file: preamble/evaluation
+      - file: preamble/success
+  - caption: Preliminaries
     chapters:
       - file: foundations/overview
       - file: foundations/why-python
@@ -26,32 +32,57 @@ parts:
           - file: foundations/what-is-github
           - file: foundations/git
           - file: foundations/github-pull-request
-  - caption: Core Scientific Python packages
+  - caption: Weekly course content
     chapters:
       - file: core/overview
-      - file: core/numpy
+      - file: core/week1
         sections:
-          - file: core/numpy/numpy-basics
-          - file: core/numpy/intermediate-numpy
-          - file: core/numpy/numpy-broadcasting
-      - file: core/matplotlib
+          - file: core/week1/overview
+      - file: core/week2
         sections:
-          - file: core/matplotlib/matplotlib
-      - file: core/cartopy
+          - file: core/week2/overview
+      - file: core/week3
         sections:
-          - file: core/cartopy/cartopy
-      - file: core/datetime
+          - file: core/week3/overview
+      - file: core/week4
         sections:
-          - file: core/datetime/datetime
-      - file: core/pandas
+          - file: core/week4/overview
+      - file: core/week5
         sections:
-          - file: core/pandas/pandas
-      - file: core/data-formats
+          - file: core/week5/overview
+      - file: core/week6
         sections:
-          - file: core/data-formats/netcdf-cf
-      - file: core/xarray
+          - file: core/week6/overview
+      - file: core/week7
         sections:
-          - file: core/xarray/xarray
+          - file: core/week7/overview
+      - file: core/week8
+        sections:
+          - file: core/week8/overview
+      - file: core/week9
+        sections:
+          - file: core/week9/overview
+      - file: core/week10
+        sections:
+          - file: core/week10/overview
+      - file: core/week11
+        sections:
+          - file: core/week11/overview
+      - file: core/week12
+        sections:
+          - file: core/week12/overview
+      - file: core/week13
+        sections:
+          - file: core/week13/overview
+      - file: core/week14
+        sections:
+          - file: core/week14/overview
+      - file: core/week15
+        sections:
+          - file: core/week15/overview
+      - file: core/week16
+        sections:
+          - file: core/week16/overview
   - caption: Appendix
     chapters:
       - file: appendix/how-to-contribute

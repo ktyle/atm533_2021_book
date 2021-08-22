@@ -1,10 +1,10 @@
-# Pythia Foundations contributor's guide
+# Course contributor's guide
 
 ```{note}
 This content is under construction!
 ```
 
-General information on how to contribute to any Project Pythia repository
+General information on how to contribute to this course, which follows the repository format used in Project Pythia 
 may be found [here][pythia contributor's guide].
 
 A full contributor's guide will appear here, cross-referencing our tutorials on open Pull Requests on GitHub.
