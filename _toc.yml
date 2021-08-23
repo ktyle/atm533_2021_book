@@ -34,7 +34,6 @@ parts:
           - file: foundations/github-pull-request
   - caption: Weekly course content
     chapters:
-      - file: core/overview
       - file: core/week1
         sections:
           - file: core/week1/overview

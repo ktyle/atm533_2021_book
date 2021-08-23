@@ -1,5 +1,3 @@
 # Course syllabus
 
-```{note}
-This content is under construction!
-```
+Please refer to [Blackboard](https://blackboard.albany.edu) for the course syllabus.
